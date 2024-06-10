@@ -1,0 +1,8 @@
+Not yet implemented:
+    CMake
+    Docker (?)
+    GPU computation for FFT (?)
+
+    10/06/2024
+        First steps into FFT (defining the library)
+        Import txt files to apply the FFT
