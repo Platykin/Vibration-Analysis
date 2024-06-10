@@ -1,0 +1,3 @@
+C:/dev/Tresca/build/CMakeFiles/Vibration_Analysis.dir
+C:/dev/Tresca/build/CMakeFiles/edit_cache.dir
+C:/dev/Tresca/build/CMakeFiles/rebuild_cache.dir
