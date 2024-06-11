@@ -130,4 +130,5 @@ CMakeFiles/Vibration_Analysis.dir/main.cpp.obj: \
  C:/dev/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/basic_ios.tcc \
  C:/dev/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/ostream.tcc \
  C:/dev/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/istream \
- C:/dev/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/istream.tcc
+ C:/dev/mingw/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/istream.tcc \
+ C:/dev/FFTW3/fftw3.h

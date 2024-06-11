@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Vibration_Analysis.dir/main.cpp.obj"
   "CMakeFiles/Vibration_Analysis.dir/main.cpp.obj.d"
-  "Vibration_Analysis.exe"
-  "Vibration_Analysis.exe.manifest"
-  "Vibration_Analysis.pdb"
+  "Debug/Vibration_Analysis.exe"
+  "Debug/Vibration_Analysis.exe.manifest"
+  "Debug/Vibration_Analysis.pdb"
   "libVibration_Analysis.dll.a"
 )
 
