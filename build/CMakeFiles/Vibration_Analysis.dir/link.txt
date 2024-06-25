@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Vibration_Analysis.dir/objects.a
+C:\dev\mingw\mingw64\bin\ar.exe qc CMakeFiles\Vibration_Analysis.dir/objects.a @CMakeFiles\Vibration_Analysis.dir\objects1.rsp
+C:\dev\mingw\mingw64\bin\g++.exe -g -DDEBUG -g -Wl,--whole-archive CMakeFiles\Vibration_Analysis.dir/objects.a -Wl,--no-whole-archive -o Debug\Vibration_Analysis.exe -Wl,--out-implib,libVibration_Analysis.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Vibration_Analysis.dir\linkLibs.rsp

@@ -1,3 +1,9 @@
 {
-    "cmake.sourceDirectory": "C:/dev/Tresca/Vibration-Analysis"
+    "cmake.sourceDirectory": "C:/dev/Tresca/Vibration-Analysis",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.generator": "Ninja",
+    "cmake.buildType": "Debug",
+    "cmake.configureOnOpen": true,
+    "cmake.cmakePath": "C:/Program Files/CMake/bin",
+    "cmake.mingwPath": "C:/dev/mingw/mingw64/bin"
 }
