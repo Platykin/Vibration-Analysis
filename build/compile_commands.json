@@ -1,8 +1,8 @@
 [
 {
   "directory": "C:/dev/Tresca/build",
-  "command": "C:\\dev\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/Vibration_Analysis.dir/includes_CXX.rsp -g -DDEBUG -g -o CMakeFiles\\Vibration_Analysis.dir\\main.cpp.obj -c C:\\dev\\Tresca\\Vibration-Analysis\\main.cpp",
-  "file": "C:/dev/Tresca/Vibration-Analysis/main.cpp",
-  "output": "CMakeFiles/Vibration_Analysis.dir/main.cpp.obj"
+  "command": "C:\\dev\\mingw\\mingw64\\bin\\g++.exe -IC:/dev/FFTW3 -g -DDEBUG -g -o CMakeFiles\\Vibration_Analysis.dir\\main.cpp.obj -c C:\\dev\\Tresca\\Vibration-Analysis\\main.cpp",
+  "file": "C:\\dev\\Tresca\\Vibration-Analysis\\main.cpp",
+  "output": "CMakeFiles\\Vibration_Analysis.dir\\main.cpp.obj"
 }
 ]

@@ -4,6 +4,6 @@
     "cmake.generator": "Ninja",
     "cmake.buildType": "Debug",
     "cmake.configureOnOpen": true,
-    "cmake.cmakePath": "C:/Program Files/CMake/bin",
+    "cmake.cmakePath": "C:/Program Files/CMake/bin/cmake.exe",
     "cmake.mingwPath": "C:/dev/mingw/mingw64/bin"
 }
